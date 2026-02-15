@@ -25,7 +25,7 @@ The system utilizes a rotational base to position sample cups under a stationary
 
 ## ⚙️ **Rotational Base Technical Specs:**
 
-> (Aaron Helped me a lot when building the rotational base, Thank you for that Aaron <3)
+> (Aaron helped me a lot when building the rotational base, Thank you for that Aaron <3)
 
 - The core of the positioning system, designed to rotate samples into place with high repeatability.
 - Hardware: Plywood base (density ~ 500 kg/m^3) driven by a 2052 steps/rev stepper motor.
