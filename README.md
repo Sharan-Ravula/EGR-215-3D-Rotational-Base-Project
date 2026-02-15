@@ -4,13 +4,13 @@
 
 > Note: This project was developed as my first engineering design project at the University of Kentucky College of Engineering. It represents my first experience synthesizing mechanical design, electronic control, and software integration in a team environment.
 
-#### An integrated hardware and software solution designed to automate the collection and distribution of liquid samples. This system focuses on the precise positioning of sample containers and the automated handling of fluids.
+An integrated hardware and software solution designed to automate the collection and distribution of liquid samples. This system focuses on the precise positioning of sample containers and the automated handling of fluids.
 
 ---
 
 ## 🚀 **Project Overview:**
 
-##### The system utilizes a rotational base to position sample cups under a stationary pipette. A motorized lift mechanism controls the vertical movement of the pipette, while a squeeze mechanism handles liquid uptake and dispensing. The entire process is orchestrated via a MATLAB GUI and Arduino microcontrollers.
+The system utilizes a rotational base to position sample cups under a stationary pipette. A motorized lift mechanism controls the vertical movement of the pipette, while a squeeze mechanism handles liquid uptake and dispensing. The entire process is orchestrated via a MATLAB GUI and Arduino microcontrollers.
 
 ---
 
