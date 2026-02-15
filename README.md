@@ -58,5 +58,6 @@ The project successfully met several key performance milestones:
  - Force Modeling: Calculated the specific force-to-torque ratio necessary to achieve precise 1 ml liquid draws.
  - MATLAB GUI: Provides the user interface and sends serial commands to the hardware.
 
-I had a lot of fun with the team when we were working on the projects and playing table tennis
-[Team](team1.jpg)
+> I had a lot of fun with the team when we were working on the projects and playing table tennis
+
+[Team Photo](team1.jpg)
