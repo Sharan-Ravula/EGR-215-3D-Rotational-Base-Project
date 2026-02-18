@@ -26,18 +26,18 @@ EGR-215-3D-Rotational-Base-Project/
 │   ├── Rotational_base.stl                      # 3D-printable files for the main chassis components
 │   ├── wheel.ai        		                     # Vector file for laser-cutting or custom fabrication of the wheels
 │ 
-├── docs/                               		  # Project management and analytical data
+├── docs/                               		     # Project management and analytical data
 │   ├── peer_discussion_evaluation.docx          # Documentation of team collaboration and peer feedback          
-│   ├── samples_performance_data.xlsx         # Testing results and performance metrics for the rotation base
+│   ├── samples_performance_data.xlsx            # Testing results and performance metrics for the rotation base
 │   ├── water_sampler_performance_data.xlsx      # Testing deviation errors and movement repeatability for the rotation base					
 │
 ├── scripts/                                     # Firmware and control software     
 │   ├── arduino_code.ino                         # Main C++ source code for the microcontroller to manage motor rotation and sensor triggers	
 │   ├── trigger_arduino.m                        # MATLAB script used to interface with the hardware for data acquisition or remote triggering	              
 │
-├── team_1.png                           				 # team_1 group selfie
-├── README.md                           				 # Project overview and instructions
-└── LICENSE                             				 # License information for the repository
+├── team_1.png                           			# team_1 group selfie
+├── README.md                           			# Project overview and instructions
+└── LICENSE                             			# License information for the repository
 ```
 
 ---
