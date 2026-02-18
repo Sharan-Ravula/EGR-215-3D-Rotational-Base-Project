@@ -45,8 +45,11 @@ EGR-215-3D-Rotational-Base-Project/
 ## 🛠 **Subsystems & Team:**
 
 - **Rotational Base** (`Sharan Ravula`): Design of the rotating platform, motor selection (stepper), and friction/torque analysis to ensure precise positioning ($180^\circ$ rotation and back).
+  
 - **Stand & Lift** (`Aaron Cook`): Structural support and the vertical slide mechanism powered by a servo motor.
+  
 - **GUI** (`Fayek Sharaf`): MATLAB-based interface and coordinate system movements.
+  
 - **Pipette Squeeze** (`Fernando C Tanse Mosneagu`): Motorized lever mechanism designed to provide the specific force required to compress a pipette bulb for liquid suction.
 
 ---
@@ -56,8 +59,11 @@ EGR-215-3D-Rotational-Base-Project/
 > Aaron helped me a lot when building the rotational base, Thank you for that Aaron <3
 
 - The core of the positioning system, designed to rotate samples into place with high repeatability.
+  
 - **Hardware**: Plywood base (density ~ 500 kg/$`m^3`$) driven by a 2052 steps/rev stepper motor.
+  
 - **Design Constraints**: The radius was set to 9.45 cm to balance the required torque against system stability.
+  
 - **Friction Management**: Extensive modeling was performed to map the Coefficient of Friction (CoF) against required Torque. To ensure smooth operation, the team implemented low-friction materials and load distribution strategies.
 
 ---
@@ -67,6 +73,7 @@ EGR-215-3D-Rotational-Base-Project/
 The rotational base was stress-tested with various "real-world" weights to ensure the motor did not stall:
 
   - **Tested Weights**: Successfully handled loads ranging from 24g to 160g.
+    
   - **Stability**: Use of rubber, paper, and ball-bearing supports were iterated to maintain stability under high-weight samples.
 
 ---
@@ -74,7 +81,9 @@ The rotational base was stress-tested with various "real-world" weights to ensur
 ## 🛠 **Materials Used:**
 
 - **Structure**: Plywood, 3D printed gears/components, and metal bearings.
+  
 - **Electronics**: Arduino Ethernet/Uno, Stepper Motor (28BYJ-48), Servo Motor, and external power supply.
+  
 - **Fluidics**: Standard laboratory pipette.
 
 ---
@@ -84,24 +93,31 @@ The rotational base was stress-tested with various "real-world" weights to ensur
 The project successfully met several key performance milestones:
 
  - **Rotational Precision**: The stepper motor successfully moved the platform 180 deg and returned to the home position.
+   
  - **Mechanical Reliability**: The lift mechanism demonstrated the ability to carry the weight of the servo and pipette assembly without stalling.
+   
  - **Force Modeling**: Calculated the specific force-to-torque ratio necessary to achieve precise 1 ml liquid draws.
+   
  - **MATLAB GUI**: Provides the user interface and sends serial commands to the hardware.
 
 ---
 
 ## 📹 **Video**:
 
-1. [Team#1 Video of the Project (Team) EGR 215](https://youtu.be/eUpzdUF81iA?si=0lt0mXDnTIAIJpGk)
-2. [Rotational Base Subsystem Demonstration EGR 215](https://youtu.be/x_shSBH9O_A?si=jgN_XBuFfA_SxD8r)
+- [Team#1 Video of the Project (Team) EGR 215](https://youtu.be/eUpzdUF81iA?si=0lt0mXDnTIAIJpGk)
+   
+- [Rotational Base Subsystem Demonstration EGR 215](https://youtu.be/x_shSBH9O_A?si=jgN_XBuFfA_SxD8r)
 
 ---
 
 ## **Team Members**:
 
   - Sharan Ravula
+    
   - Aaron Cook
+    
   - Fernando C Tanse Mosneagu
+    
   - Fayek Sharaf
 
 ---
