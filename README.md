@@ -53,7 +53,7 @@ EGR-215-3D-Rotational-Base-Project/
 
 ## ⚙️ **Rotational Base Technical Specs:**
 
-> (Aaron helped me a lot when building the rotational base, Thank you for that Aaron <3)
+> Aaron helped me a lot when building the rotational base, Thank you for that Aaron <3
 
 - The core of the positioning system, designed to rotate samples into place with high repeatability.
 - Hardware: Plywood base (density ~ 500 kg/m^3) driven by a 2052 steps/rev stepper motor.
@@ -95,6 +95,6 @@ The project successfully met several key performance milestones:
 
 ---
 
-> I had a lot of fun with the team when we were working on the projects and playing table tennis
+> I had a lot of fun with the team when we were working on the projects and playing table tennis with Aarom
 
 <img width="1496" height="850" alt="image" src="https://github.com/user-attachments/assets/5951660a-9b14-49af-bf0c-fe77b078318f" />
