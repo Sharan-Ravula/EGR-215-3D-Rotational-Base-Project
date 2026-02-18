@@ -62,4 +62,6 @@ The project successfully met several key performance milestones:
 
 [Team#1 Video of the Project (Team) EGR 215](https://youtu.be/eUpzdUF81iA?si=0lt0mXDnTIAIJpGk)
 
+[Rotational Base Subsystem Demonstration EGR 215](https://youtu.be/x_shSBH9O_A?si=jgN_XBuFfA_SxD8r)
+
 <img width="1496" height="850" alt="image" src="https://github.com/user-attachments/assets/5951660a-9b14-49af-bf0c-fe77b078318f" />
