@@ -95,6 +95,15 @@ The project successfully met several key performance milestones:
 
 ---
 
+## **Team Members**:
+
+  - Sharan Ravula
+  - Aaron Cook
+  - Fernando C Tanse Mosneagu
+  - Fayek Sharaf
+
+---
+
 > I had a lot of fun with the team when we were working on the projects and playing table tennis with Aarom
 
 <img width="1496" height="850" alt="image" src="https://github.com/user-attachments/assets/5951660a-9b14-49af-bf0c-fe77b078318f" />
