@@ -33,7 +33,7 @@ EGR-215-3D-Rotational-Base-Project/
 │
 ├── scripts/                                     # Firmware and control software     
 │   ├── arduino_code.ino                         # Main C++ source code for the microcontroller to manage motor rotation and sensor triggers	
-│	 ├── trigger_arduino.m                        # MATLAB script used to interface with the hardware for data acquisition or remote triggering
+│   ├── trigger_arduino.m                         # MATLAB script used to interface with the hardware for data acquisition or remote triggering	              
 │
 ├── team_1.png                           				 # team_1 group selfie
 ├── README.md                           				 # Project overview and instructions
