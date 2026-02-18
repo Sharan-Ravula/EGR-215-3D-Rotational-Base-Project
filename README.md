@@ -58,9 +58,13 @@ The project successfully met several key performance milestones:
  - Force Modeling: Calculated the specific force-to-torque ratio necessary to achieve precise 1 ml liquid draws.
  - MATLAB GUI: Provides the user interface and sends serial commands to the hardware.
 
+---
+
 ## 📹 **Video**:
 
 [Team#1 Video of the Project (Team) EGR 215](https://youtu.be/eUpzdUF81iA?si=0lt0mXDnTIAIJpGk) | [Rotational Base Subsystem Demonstration EGR 215](https://youtu.be/x_shSBH9O_A?si=jgN_XBuFfA_SxD8r)
+
+---
 
 > I had a lot of fun with the team when we were working on the projects and playing table tennis
 
