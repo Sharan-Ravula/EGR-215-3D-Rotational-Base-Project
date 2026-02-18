@@ -14,6 +14,34 @@ The system utilizes a rotational base to position sample cups under a stationary
 
 ---
 
+## 📂 Repository Structure
+
+```text
+EGR-215-3D-Rotational-Base-Project/
+│
+├── CAD/                            # Engineering designs and 3D models for mechanical components          		
+│   ├── cad_rotational_base.pdf 		# Technical 2D drawings and dimensions for the base
+│   ├── cad_wheels.pdf              # Technical 2D drawings and dimensions for the base
+│   ├── rotational_base_2.stl       # 3D-printable files for the main chassis components
+│   ├── Rotational_base.stl         # 3D-printable files for the main chassis components
+│   ├── wheel.ai        		        # Vector file for laser-cutting or custom fabrication of the wheels
+│ 
+├── docs/                               				 # Project management and analytical data
+│   ├── peer_discussion_evaluation.docx          # Documentation of team collaboration and peer feedback          
+│   ├── samples_performance_data.xlsx        		 # Testing results and performance metrics for the rotation base
+│   ├── water_sampler_performance_data.xlsx      # Testing deviation errors and movement repeatability for the rotation base					
+│
+├── scripts/                                     # Firmware and control software     
+│   ├── arduino_code.ino                         # Main C++ source code for the microcontroller to manage motor rotation and sensor triggers	
+│	  ├── trigger_arduino.m                        # MATLAB script used to interface with the hardware for data acquisition or remote triggering
+│
+├── team_1.png                           				# team_1 group selfie
+├── README.md                           				# Project overview and instructions
+└── LICENSE                             				# License information for the repository
+```
+
+---
+
 ## 🛠 **Subsystems & Team:**
 
 - Rotational Base (Sharan Ravula): Design of the rotating platform, motor selection (stepper), and friction/torque analysis to ensure precise positioning ($180^\circ$ rotation and back).
@@ -25,7 +53,7 @@ The system utilizes a rotational base to position sample cups under a stationary
 
 ## ⚙️ **Rotational Base Technical Specs:**
 
-> Aaron helped me a lot when building the rotational base, Thank you for that Aaron <3
+> (Aaron helped me a lot when building the rotational base, Thank you for that Aaron <3)
 
 - The core of the positioning system, designed to rotate samples into place with high repeatability.
 - Hardware: Plywood base (density ~ 500 kg/m^3) driven by a 2052 steps/rev stepper motor.
@@ -67,6 +95,6 @@ The project successfully met several key performance milestones:
 
 ---
 
-> I had a lot of fun with the team when we were working on the projects and playing table tennis with Aaron
+> I had a lot of fun with the team when we were working on the projects and playing table tennis
 
 <img width="1496" height="850" alt="image" src="https://github.com/user-attachments/assets/5951660a-9b14-49af-bf0c-fe77b078318f" />
