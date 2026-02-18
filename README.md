@@ -44,10 +44,10 @@ EGR-215-3D-Rotational-Base-Project/
 
 ## 🛠 **Subsystems & Team:**
 
-- Rotational Base (Sharan Ravula): Design of the rotating platform, motor selection (stepper), and friction/torque analysis to ensure precise positioning ($180^\circ$ rotation and back).
-- Stand & Lift (Aaron Cook): Structural support and the vertical slide mechanism powered by a servo motor.
-- GUI (Fayek Sharaf): MATLAB-based interface and coordinate system movements.
-- Pipette Squeeze (Fernando C Tanse Mosneagu): Motorized lever mechanism designed to provide the specific force required to compress a pipette bulb for liquid suction.
+- **Rotational Base** (`Sharan Ravula`): Design of the rotating platform, motor selection (stepper), and friction/torque analysis to ensure precise positioning ($180^\circ$ rotation and back).
+- **Stand & Lift** (`Aaron Cook`): Structural support and the vertical slide mechanism powered by a servo motor.
+- **GUI** (`Fayek Sharaf`): MATLAB-based interface and coordinate system movements.
+- **Pipette Squeeze** (`Fernando C Tanse Mosneagu`): Motorized lever mechanism designed to provide the specific force required to compress a pipette bulb for liquid suction.
 
 ---
 
