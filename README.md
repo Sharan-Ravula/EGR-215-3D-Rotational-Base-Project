@@ -104,6 +104,6 @@ The project successfully met several key performance milestones:
 
 ---
 
-> I had a lot of fun with the team when we were working on the projects and playing table tennis with Aarom
+> I had a lot of fun with the team when we were working on the projects and playing table tennis with Aaron
 
 <img width="1496" height="850" alt="image" src="https://github.com/user-attachments/assets/5951660a-9b14-49af-bf0c-fe77b078318f" />
