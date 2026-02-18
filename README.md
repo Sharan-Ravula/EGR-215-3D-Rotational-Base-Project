@@ -60,7 +60,7 @@ The project successfully met several key performance milestones:
 
 ## 📹 **Video**:
 
-[Team#1 Video of the Project (Team) EGR 215](https://youtu.be/eUpzdUF81iA?si=0lt0mXDnTIAIJpGk) [Rotational Base Subsystem Demonstration EGR 215](https://youtu.be/x_shSBH9O_A?si=jgN_XBuFfA_SxD8r)
+[Team#1 Video of the Project (Team) EGR 215](https://youtu.be/eUpzdUF81iA?si=0lt0mXDnTIAIJpGk) | [Rotational Base Subsystem Demonstration EGR 215](https://youtu.be/x_shSBH9O_A?si=jgN_XBuFfA_SxD8r)
 
 > I had a lot of fun with the team when we were working on the projects and playing table tennis
 
