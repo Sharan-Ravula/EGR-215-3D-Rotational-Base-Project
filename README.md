@@ -37,7 +37,7 @@ EGR-215-3D-Rotational-Base-Project/
 │
 ├── team_1.png                           	     # team_1 group selfie
 ├── README.md                           	     # Project overview and instructions
-└── LICENSE                             		# License information for the repository
+└── LICENSE                             		 # License information for the repository
 ```
 
 ---
