@@ -60,4 +60,6 @@ The project successfully met several key performance milestones:
 
 > I had a lot of fun with the team when we were working on the projects and playing table tennis
 
+[Team#1 Video of the Project (Team) EGR 215](https://youtu.be/eUpzdUF81iA?si=0lt0mXDnTIAIJpGk)
+
 <img width="1496" height="850" alt="image" src="https://github.com/user-attachments/assets/5951660a-9b14-49af-bf0c-fe77b078318f" />
