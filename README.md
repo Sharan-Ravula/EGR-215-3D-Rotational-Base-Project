@@ -1,6 +1,6 @@
 # **Automated Water Sampler System**
 
-### **My First University Engineering Project**
+### ‼️ **My First University Engineering Project**
 
 > Note: This project was developed as my first engineering design project at the University of Kentucky College of Engineering. It represents my first experience synthesizing mechanical design, electronic control, and software integration in a team environment.
 
